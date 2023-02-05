@@ -1,3 +1,4 @@
+// Import library for user input. 
 import java.util.Scanner;
 
 public class Director {
@@ -19,7 +20,8 @@ public class Director {
         userChoice = scanner.nextLine();
     }
 
-    // Generate new card. Compare new card to old card and update score.
+    // Generate new card. 
+    // Compare new card to old card and update score.
     public void doUpdates() {
         int newCard = card.cardChoice();
         int oldCard = card.cards.get(card.cards.size() - 2);
