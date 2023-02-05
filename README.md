@@ -9,15 +9,17 @@ Here is a video that demonstrates the software running and a walkthrough of the 
 # Development Environment
 
 Java
+
 Git
+
 IntelliJ
 
 This program was coded in Java and uses two libraries to work with lists and user input. 
 
 # Useful Websites
 
-- [www.w3schools.com]([http://url.link.goes.here](https://www.w3schools.com/java/default.asp))
-- [oracle.com]([http://url.link.goes.here](https://docs.oracle.com/en/java/javase/index.html))
+- [www.w3schools.com]([http://url.link.goes.here](https://www.w3schools.com/java/default.asp)
+- [oracle.com]([http://url.link.goes.here](https://docs.oracle.com/en/java/javase/index.html)
 
 # Future Work
 
